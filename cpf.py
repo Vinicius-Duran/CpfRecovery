@@ -42,4 +42,4 @@ cpf_parcial = "505.44*.*08-0*"
 combinacoes_validas = gerar_combinacoes_validas(cpf_parcial)
 
 # Exibe algumas combinações válidas
-print(combinacoes_validas[:10000])  # Exibe as primeiras 10 combinações válidas
+print(combinacoes_validas[:10])  # Exibe as primeiras 10 combinações válidas
