@@ -1,6 +1,5 @@
 # CPF Recovery
 
-Português:
 Este código permite gerar combinações válidas de CPF a partir de um CPF parcial, onde alguns dígitos estão ocultos (representados por asteriscos). 
 Ele usa a fórmula oficial para calcular os dois dígitos verificadores do CPF e verifica se as combinações geradas são válidas. 
 A função gerar_combinacoes_validas gera todas as combinações possíveis substituindo os asteriscos por números, enquanto a função calcula_digitos_verificadores 
